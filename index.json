@@ -3310,10 +3310,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.62.apk",
+    "apk": "tachiyomi-all.komga-v1.4.63.apk",
     "lang": "all",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 0,
     "sources": [
       {
@@ -7494,17 +7494,17 @@
   {
     "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
-    "apk": "tachiyomi-ar.mangapro-v1.4.37.apk",
+    "apk": "tachiyomi-ar.mangapro-v1.4.38.apk",
     "lang": "ar",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manga Pro",
         "lang": "ar",
         "id": "1250466030789918250",
-        "baseUrl": "https://promanga.pro"
+        "baseUrl": "https://promanga.net"
       }
     ]
   },
@@ -7749,17 +7749,17 @@
   {
     "name": "Tachiyomi: Onma",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
-    "apk": "tachiyomi-ar.onma-v1.4.13.apk",
+    "apk": "tachiyomi-ar.onma-v1.4.14.apk",
     "lang": "ar",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "مانجا اون لاين",
         "lang": "ar",
         "id": "335499577904379512",
-        "baseUrl": "https://onma.me"
+        "baseUrl": "https://onma.top"
       }
     ]
   },
@@ -8542,6 +8542,23 @@
         "lang": "en",
         "id": "3819152328997277823",
         "baseUrl": "https://beehentai.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Borat Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.boratscans",
+    "apk": "tachiyomi-en.boratscans-v1.4.42.apk",
+    "lang": "en",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Borat Scans",
+        "lang": "en",
+        "id": "7909401032149692930",
+        "baseUrl": "https://boratscans.com"
       }
     ]
   },
@@ -9932,17 +9949,17 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.59.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.60.apk",
     "lang": "en",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
         "name": "Hiperdex",
         "lang": "en",
         "id": "3064755045370217842",
-        "baseUrl": "https://hipertoon.com"
+        "baseUrl": "https://hiperdex.com"
       }
     ]
   },
@@ -13143,6 +13160,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Pluto Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.plutoscans",
+    "apk": "tachiyomi-en.plutoscans-v1.4.42.apk",
+    "lang": "en",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Pluto Scans",
+        "lang": "en",
+        "id": "1001157238479601077",
+        "baseUrl": "https://plutoscans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rackus",
     "pkg": "eu.kanade.tachiyomi.extension.en.pmscans",
     "apk": "tachiyomi-en.pmscans-v1.4.37.apk",
@@ -15429,10 +15463,10 @@
   {
     "name": "Tachiyomi: Dark Nebulus",
     "pkg": "eu.kanade.tachiyomi.extension.es.darknebulus",
-    "apk": "tachiyomi-es.darknebulus-v1.4.42.apk",
+    "apk": "tachiyomi-es.darknebulus-v1.4.43.apk",
     "lang": "es",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "sources": [
       {
@@ -15440,6 +15474,23 @@
         "lang": "es",
         "id": "1375264872999315926",
         "baseUrl": "https://www.darknebulus.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dark Nebulus Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.darknebulusmanga",
+    "apk": "tachiyomi-es.darknebulusmanga-v1.4.42.apk",
+    "lang": "es",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Dark Nebulus Manga",
+        "lang": "es",
+        "id": "7176426909766699899",
+        "baseUrl": "https://darknebulusmanga.com"
       }
     ]
   },
@@ -21623,6 +21674,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Miae Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.miaetranslations",
+    "apk": "tachiyomi-pt.miaetranslations-v1.4.42.apk",
+    "lang": "pt-BR",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Miae Translations",
+        "lang": "pt-BR",
+        "id": "6415223326286948177",
+        "baseUrl": "https://miaetranslations.site"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MiniTwo Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.minitwoscan",
     "apk": "tachiyomi-pt.minitwoscan-v1.4.42.apk",
@@ -23104,17 +23172,17 @@
   {
     "name": "Tachiyomi: Cat300",
     "pkg": "eu.kanade.tachiyomi.extension.th.cat300",
-    "apk": "tachiyomi-th.cat300-v1.4.44.apk",
+    "apk": "tachiyomi-th.cat300-v1.4.45.apk",
     "lang": "th",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
         "name": "Cat300",
         "lang": "th",
         "id": "6055828959180481405",
-        "baseUrl": "https://cat300.net"
+        "baseUrl": "https://cat-300.com"
       }
     ]
   },
@@ -24037,6 +24105,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ghost Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.ghosthentai",
+    "apk": "tachiyomi-tr.ghosthentai-v1.4.42.apk",
+    "lang": "tr",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Ghost Hentai",
+        "lang": "tr",
+        "id": "8123244641427878412",
+        "baseUrl": "https://ghosthentai.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gölge Bahçesi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.golgebahcesi",
     "apk": "tachiyomi-tr.golgebahcesi-v1.4.30.apk",
@@ -24900,6 +24985,23 @@
         "lang": "tr",
         "id": "5786550835901373927",
         "baseUrl": "https://www.ruyamanga2.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Rüya Manga.net",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.ruyamanganet",
+    "apk": "tachiyomi-tr.ruyamanganet-v1.4.42.apk",
+    "lang": "tr",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Rüya Manga.net",
+        "lang": "tr",
+        "id": "5507342509037890098",
+        "baseUrl": "https://ruyamanga.net"
       }
     ]
   },
